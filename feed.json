@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "The Hideout",
+    "description": "",
+    "home_page_url": "https://sites.kamfu.org",
+    "feed_url": "https://sites.kamfu.org/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "TH"
+    },
+    "items": [
+        {
+            "id": "https://sites.kamfu.org/hello-world.html",
+            "url": "https://sites.kamfu.org/hello-world.html",
+            "title": "Hello World",
+            "summary": "This is a test.",
+            "content_html": "This is a test.",
+            "author": {
+                "name": "TH"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-04-06T02:06:11+08:00",
+            "date_modified": "2019-04-06T02:06:11+08:00"
+        }
+    ]
+}
