@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>The Hideout</title>
-    <link href="https://sites.kamfu.org/feed.xml" rel="self" />
-    <link href="https://sites.kamfu.org" />
-    <updated>2019-04-06T02:39:53+08:00</updated>
+    <link href="https://kamfu.github.io/feed.xml" rel="self" />
+    <link href="https://kamfu.github.io" />
+    <updated>2019-04-06T02:44:16+08:00</updated>
     <author>
         <name>TH</name>
     </author>
-    <id>https://sites.kamfu.org</id>
+    <id>https://kamfu.github.io</id>
 
     <entry>
         <title>Hello World</title>
         <author>
             <name>TH</name>
         </author>
-        <link href="https://sites.kamfu.org/hello-world.html"/>
-        <id>https://sites.kamfu.org/hello-world.html</id>
+        <link href="https://kamfu.github.io/hello-world.html"/>
+        <id>https://kamfu.github.io/hello-world.html</id>
 
         <updated>2019-04-06T02:06:11+08:00</updated>
             <summary>
